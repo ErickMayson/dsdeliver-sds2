@@ -1,5 +1,3 @@
-import OrderLocation from "./OrderLocation"
-import ProductCard from "./ProductCard"
 
 export type Product = {
     id: number;
